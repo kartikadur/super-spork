@@ -1,0 +1,1 @@
+export type LevelsCompleted = { level: number, users: number }[];

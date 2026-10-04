@@ -1,0 +1,1 @@
+export type LevelsDurations = { level: number, best: number, worst: number }[];
